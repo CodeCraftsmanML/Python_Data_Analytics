@@ -8,7 +8,6 @@ The goal of this repository is to build **strong fundamentals**, demonstrate **c
 
 ## 📁 Repository Structure
 Python_Data_Analytics/
-## 📁 Repository Structure
 
 - `notebooks/` → Jupyter notebooks for each day
   - `Day_1_Basics.ipynb`
