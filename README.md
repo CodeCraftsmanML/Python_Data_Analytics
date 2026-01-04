@@ -6,25 +6,6 @@ The goal of this repository is to build **strong fundamentals**, demonstrate **c
 
 ---
 
-## 📁 Repository Structure
-Python_Data_Analytics/
-│
-├── notebooks/
-│ ├── Day_1_Basics.ipynb
-│
-├── data/
-│ └── README.md
-│
-├── docs/
-│ └── README.md
-│
-├── .gitignore
-└── README.md
-
-
-
----
-
 ## 📘 Contents
 
 ### 🟢 Notebooks
